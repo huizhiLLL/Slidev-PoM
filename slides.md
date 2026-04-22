@@ -715,7 +715,7 @@ transition: fade
     style="right: 2.5rem; bottom: 2rem; font-size: 0.95rem; line-height: 1.8;"
   >
     <div style="font-weight: 600; color: #4b5563;">小组分工</div>
-    <div>陈诺：口头报告</div>
+    <div>陈诺：汇报</div>
     <div>黄宇镐：汇报稿撰写</div>
     <div>李冀斌：资料搜集</div>
     <div>胡泽亮：幻灯片制作</div>
