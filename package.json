@@ -1,0 +1,17 @@
+{
+  "name": "mayuan-slidev",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.5.0",
+    "playwright-chromium": "^1.55.0"
+  },
+  "dependencies": {
+    "@slidev/theme-default": "^0.25.0"
+  }
+}
