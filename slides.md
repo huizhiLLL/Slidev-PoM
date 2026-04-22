@@ -282,16 +282,14 @@ transition: fade
 <div class="intro-hero-grid" style="margin-top: 1rem;">
   <div class="intro-hero-card">
     <div class="intro-hero-visual left">
-      [大图预留]<br>
-      GPT Image 2 / Seedance 2.0 / AI 音乐生成 / 医疗辅助识别
+      <img src="\assets\3.png">
     </div>
     <div class="intro-hero-label blue">生产力正在快速跃升</div>
   </div>
 
   <div class="intro-hero-card">
     <div class="intro-hero-visual right">
-      [大图预留]<br>
-      大厂裁员截图 / API 高定价 / 入门岗位收缩 / 平台控制入口
+      <img src="\assets\1.png"
     </div>
     <div class="intro-hero-label highlight">垄断风险与就业压力同步上升</div>
   </div>
@@ -307,16 +305,16 @@ transition: fade
   <div>
     <h3 class="text-center blue">生产力正在快速跃升</h3>
     <ul class="mt-2">
-      <li>高保真图像、视频、音乐与医疗辅助等领域持续突破，不断拓展技术边界。</li>
-      <li>新的先进生产力形态正在迅速成形。</li>
+      <li>高保真图像、视频、音乐与医疗辅助等领域持续突破，不断拓展技术边界</li>
+      <li>新的先进生产力形态正在迅速成形</li>
     </ul>
   </div>
 
   <div>
     <h3 class="text-center highlight">垄断风险与就业压力同步上升</h3>
     <ul class="mt-2">
-      <li>AI 正在重组知识劳动任务结构，对部分岗位和入门机会形成压力。</li>
-      <li>对 AI 使用方式与定价机制的决定权，正日益集中于少数平台与资本主体。</li>
+      <li>AI 正在重组知识劳动任务结构，对部分岗位和入门机会形成压力</li>
+      <li>对 AI 使用方式与定价机制的决定权，正日益集中于少数平台与资本主体</li>
     </ul>
   </div>
 </div>
@@ -343,10 +341,10 @@ transition: slide-up
 
 # 二. 理论框架的当代适用<br>——生产力三要素的深刻变革
 
+<br>
 <div class="layout-grid grid-3 dense" style="margin-top: 1.4rem;">
   <div class="box" v-click>
     <h3>劳动者</h3>
-    <div class="img-placeholder small">[图片预留：提示词设计、数据标注、模型评测、合规场景]</div>
     <ul class="mt-2">
       <li>劳动者结构正在扩展，不再局限于传统知识劳动者。</li>
       <li>提示词设计、数据标注、模型评测、AI 运维与合规等岗位正在上升。</li>
@@ -355,7 +353,6 @@ transition: slide-up
 
   <div class="box" v-click>
     <h3>劳动资料</h3>
-    <div class="img-placeholder small">[图片预留：算力中心、模型、平台入口]</div>
     <ul class="mt-2">
       <li>算力基础设施、算法模型和数据平台成为关键劳动资料。</li>
       <li>这套新的劳动资料，正在决定生产过程的进入门槛和控制能力。</li>
@@ -364,13 +361,13 @@ transition: slide-up
 
   <div class="box" v-click>
     <h3>劳动对象</h3>
-    <div class="img-placeholder small">[图片预留：数据流、语料、用户交互]</div>
     <ul class="mt-2">
       <li>数据正在成为关键生产要素，也是重要劳动对象之一。</li>
       <li>数字经济时代的"原料"，越来越表现为可计算的数据资源。</li>
     </ul>
   </div>
 </div>
+<br>
 
 <div class="accent-quote dense" v-click>
   AI 并非"新问题可以抛开旧理论"，恰恰相反——它是经典理论框架在数字时代的新检验场。
@@ -415,7 +412,7 @@ transition: fade
 transition: slide-left
 ---
 
-# 三. AI 的"一体两面"——<br><br>面向一：通往自由王国之路
+# 三. AI 的"一体两面"——<br><br>面向一：<span class="highlight">通往自由王国之路</span>
 
 <div class="layout-grid grid-2">
   <div v-click>
@@ -433,7 +430,7 @@ transition: slide-left
 
   <div v-click>
     <div class="img-placeholder medium">
-      [图片预留：高效协作、未来生产、AI 辅助创造场景]
+<img src="\assets\4.png">
     </div>
   </div>
 </div>
@@ -487,7 +484,7 @@ transition: slide-left
 transition: slide-up
 ---
 
-# 面向二：生产关系对生产力发展的桎梏作用
+# 面向二：<span class="blue">资本的现代性枷锁</span>
 
 <div class="box mt-4" v-click>
   <p>
@@ -503,7 +500,7 @@ transition: slide-up
 <div class="layout-grid grid-2 mt-4">
   <div v-click>
     <div class="img-placeholder medium">
-      [图片预留：算力集中、平台垄断、岗位压力]
+      <img src="\assets\CIS_shares.jpg">
     </div>
   </div>
 
@@ -683,7 +680,7 @@ transition: fade
 <div class="layout-grid grid-2 items-center dense">
   <div v-click>
     <div class="img-placeholder large">
-      [图片预留：马克思肖像 / 桥梁意象 / 结尾主视觉]
+      <img src="\assets\hennie-stander-StV6G2GURA8-unsplash.jpg">
     </div>
   </div>
 
