@@ -711,6 +711,13 @@ transition: fade
   </div>
 
   <div
+    class="absolute flex items-center text-gray-400"
+    style="left: 2rem; bottom: 1.6rem; font-size: 0.82rem;"
+  >
+    <span>Powered by <span style="color: #2ec4b6;">Slidev</span></span>
+  </div>
+
+  <div
     class="absolute text-right text-gray-500"
     style="right: 2.5rem; bottom: 2rem; font-size: 0.95rem; line-height: 1.8;"
   >
